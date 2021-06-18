@@ -29,7 +29,7 @@
         <guava.version>29.0-android</guava.version>
         <jjwt.version>0.9.1</jjwt.version>
         <hibernate-core.version>5.4.27.Final</hibernate-core.version>
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <!-- Configurable pieces -->
         <docker.image.prefix>img</docker.image.prefix>
         <from.image>openjdk:8-jre</from.image>
